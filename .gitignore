@@ -1,0 +1,24 @@
+# Compiled binaries
+a.out
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.gdb
+
+# Build directories
+build/
+bin/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Swap files
+*.swp
